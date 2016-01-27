@@ -24,7 +24,7 @@ header-img: "img/red.jpg"
 
 
 <center>
-    <p><img src="http://7xq750.com1.z0.glb.clouddn.com/FullSizeRender(3).jpg" height="400" width="380" align="center"></p>
+    <p><img src="http://7xq750.com1.z0.glb.clouddn.com/FullSizeRender(3).jpg" height="400" width="360" align="center"></p>
 </center>
 
 
