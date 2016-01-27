@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "我们"
-description: "一只永远·吃不胖の熊·的唠叨 "
+description: "一只永远·吃不胖の熊 "
 header-img: "img/red.jpg"
 ---
 
@@ -12,12 +12,12 @@ header-img: "img/red.jpg"
 
 
 
-
+<center>
 - ###一个放些小东西的窝
 - ###一片自由徜徉的菜地 
 - ###一方宁静的休闲居所
 - ###也许某一天就会消失
-
+</center>
 
 
 ###-Our shop-
