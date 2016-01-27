@@ -1,10 +1,10 @@
 ---
-layout：post
-title：早餐
-data：2016-01-20
-categories：blog
-tags：[早餐,暗黑料理]
-description：人生，偶尔需要暗黑料理
+layout: post
+title: 早餐
+data: 2016-01-20
+categories: blog
+tags: [早餐,暗黑料理]
+description: 人生，偶尔需要暗黑料理
 
 ---
 人生，偶尔需要<big>**放大招**</big>，今天的大招就是早餐啦，早上喝粥，暖暖的，玉米糊糊上加个煎鸡蛋，整一天都觉得特别萌！
