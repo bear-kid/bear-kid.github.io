@@ -2,7 +2,7 @@
 layout: page
 title: "秘密基地"
 description: "Hello，你找到了我的仓库"  
-header-img: "img/semantic.jpg"  
+header-img: "img/green.jpg"  
 ---
 
 ##本页使用方法
