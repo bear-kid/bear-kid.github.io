@@ -7,7 +7,7 @@ header-img: "img/red.jpg"
 
 
 <center>
-    <p><img src="http://7xq750.com1.z0.glb.clouddn.com/IMG_5076.JPG" height=”300“ width=”300“ align="center"></p>
+    <p><img src="http://7xq750.com1.z0.glb.clouddn.com/IMG_5076.JPG" height="300" width="300" align="center"></p>
 </center>
 
 
