@@ -3,7 +3,7 @@ layout: post
 title: 早餐
 data: 2016-01-20
 categories: blog
-tags: [早餐,暗黑料理]
+tags: [早餐][暗黑料理]
 description: 人生，偶尔需要暗黑料理
 
 ---
