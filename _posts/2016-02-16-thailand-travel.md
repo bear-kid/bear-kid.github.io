@@ -3,6 +3,7 @@ layout: post
 title: 在泰国吃泰餐
 date: 2016-02-16
 categories: blog
+tags: [泰餐，辣，咸]
 description: 泰国的泰餐口味真是奇特呢
 
 ---
