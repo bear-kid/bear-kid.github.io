@@ -14,4 +14,4 @@ description: 人生，偶尔需要暗黑料理
 
 	我的目标是要胖！胖起来！
 
-<img src="http://7xq750.com1.z0.glb.clouddn.com/IMG_5104.JPG" align="center" height="600" width="400">
+<img src="http://ww2.sinaimg.cn/large/624353fdjw1f12f3nopypj217e1s51fy.jpg" align="center" height="600" width="400">

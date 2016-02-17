@@ -7,7 +7,7 @@ header-img: "img/red.jpg"
 
 
 <center>
-    <p><img src="http://7xq750.com1.z0.glb.clouddn.com/IMG_5076.JPG" height="300" width="300" align="center"></p>
+    <p><img src="http://ww1.sinaimg.cn/large/624353fdjw1f12f54ky6jj20m80m8q3o.jpg" height="300" width="300" align="center"></p>
 </center>
 
 
@@ -27,7 +27,7 @@ header-img: "img/red.jpg"
 
 
 <center>
-    <p><img src="http://7xq750.com1.z0.glb.clouddn.com/FullSizeRender(3).jpg" height="420" width="360" align="center"></p>
+    <p><img src="http://ww2.sinaimg.cn/large/624353fdjw1f12f686vzpj209h0bo3za.jpg" height="420" width="360" align="center"></p>
 </center>
 
 
