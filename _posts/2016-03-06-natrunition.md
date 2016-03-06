@@ -3,6 +3,7 @@ layout: post
 title: 好喝的奶粉
 date: 2016-03-06
 categories: blog
+tags: [奶粉]
 description: 好吃的澳洲蓝胖纸奶粉，不是很甜，但是很香很好喝，喝一口就爱上了
 
 ---
