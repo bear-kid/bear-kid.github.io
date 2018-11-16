@@ -23,12 +23,7 @@ header-img: "img/red.jpg"
 
 
 
-###-Our shop-
 
-[<u>白熊购物车</u>](https://shop106922943.taobao.com)
-<center>
-    <p><img src="http://ww2.sinaimg.cn/large/624353fdjw1f12f686vzpj209h0bo3za.jpg" height="420" width="360" align="center"></p>
-</center>
 
 
 
