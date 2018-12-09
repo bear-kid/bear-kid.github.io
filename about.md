@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "关于我们"
-description: "一只永远·吃不胖の熊 "
+description: "一只永远·吃不胖の "
 header-img: "img/red.jpg"
 ---
 
