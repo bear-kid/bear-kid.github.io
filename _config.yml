@@ -8,7 +8,7 @@ url: "http://bear-kid"
 
 # About
 owner: 
-  name: " Bear-kid"
+  name: " Florsheim"
   
   bio: "萌萌二货的窝"
 
@@ -35,7 +35,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "bear-kid"
+      author: "Florsheim"
       header-img: "img/zhihu.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
