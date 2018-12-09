@@ -39,12 +39,7 @@ defaults:
       header-img: "img/zhihu.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
-comments :
-  provider : duoshuo
-  duoshuo :
-    short_name : whitebear
-  disqus :
-      short_name : whitebear
+
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: 
