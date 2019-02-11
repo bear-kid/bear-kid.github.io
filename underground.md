@@ -7,7 +7,7 @@ header-img: "img/gray.jpg"
 
 
 <center>
-    <p><img:"img/favicon.png"></p>
+    <p><"img/favicon.png"></p>
 </center>
 
 
