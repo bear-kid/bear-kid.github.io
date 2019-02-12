@@ -7,7 +7,7 @@ header-img: "img/gray.jpg"
 
 
 <center>
-    <p><img src="img/favicon.png" height="300" width="300" align="center"></p>
+    <p><img src="https://github.com/bear-kid/bear-kid.github.io/blob/master/img/favicon.png?raw=true" height="300" width="300" align="center"></p>
 </center>
 
 
