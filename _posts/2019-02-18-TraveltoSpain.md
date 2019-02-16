@@ -20,8 +20,8 @@ tags: [放假]
 飞机-vueling航空，app好用，还能添加到手机日历上提醒登机，vueling还能在线check-in，也能自助托运行李，虽然我们没有用到。  
 火车-Refen，用GoEuro订票，可以抢到便宜的欧洲高铁票，这次城际之间的Refen高铁，跟坐动车差不多，Madrid的Atocha火车站检票口在1层（欧洲默认1楼是0层），要坐扶梯上去，然后就能看到检票通道了。电子票很方便，无须打印。  
 机场-市区：<u>Madrid</u>是坐Refen小火车，2.6€/人，直接到office窗口买票，刷票进站；<u>Barcelona</u>是买T10票，从机场T2航站楼坐R2线小火车到市区，T1-T2之间要去坐绿色的shuttle bus，到T2-B。到机场是看小火车头上的终点站，机场是“Aeropuerto”。<u>Sevilla</u>的市区-机场是坐巴士车，4€/人，我们是武器广场（Army Plazza出发，在-1楼的No.20等车）。
-Barcelona的T10票，很好用，可以在TMB上购买，app也好用，还能查线路，app上可以直接购买，会发送二维码，还支持发送给朋友，方便扫码上车。支持机场-市区小火车、市区地铁、市区公交，真是良心方便。
-<font color=red>无论是坐地铁还是公交或者机场-市区线，要相信google map给出的时刻表，不会错。</font>  
+Barcelona的T10票，很好用，可以在TMB上购买，app也好用，还能查线路，app上可以直接购买，会发送二维码，还支持发送给朋友，方便扫码上车。支持机场-市区小火车、市区地铁、市区公交，真是良心方便。  
+<font color="red">无论是坐地铁还是公交或者机场-市区线，要相信google map给出的时刻表，不会错。</font>  
 
 <b>板鸭景点门票：</b>
 Barcelona的景点门票最佳选择是Tiques上买，这个app很好用，买了一个景点的门票后，居然赠送了折扣码，第二个景点的门票就赚到了。其次就是各大景点官网，靠谱！最好都提前购买，现场购买要排很长的队太苦了。Sevilla皇宫的门票倒是不用提前买，现场买也是可以的，前提是淡季非旺季，而主教堂最好提前买，排队太长了。。  
@@ -33,4 +33,4 @@ Barcelona的景点门票最佳选择是Tiques上买，这个app很好用，买�
 
 停车：找白线车位停车就好啦~~~
 
-<font color=blue>板鸭是个好地方，i love Barcelona，i like Sevilla and Granada...</font>
+<font color="blue">板鸭是个好地方，i love Barcelona，i like Sevilla and Granada...</font>
