@@ -6,7 +6,7 @@ categories: blog
 tags: [影视]
 ---
 
-<img src="http://wx4.sinaimg.cn/mw690/624353fdly1g0foot597hj21360k5die.jpg" width="300"  height="200">  
+<img src="http://wx4.sinaimg.cn/mw690/624353fdly1g0foot597hj21360k5die.jpg" width="500"  height="250" align=“center”>  
 
 CouterPart这部科幻悬疑特工剧，在去年第一季播出之后被续订了，今年第二季播出后，被Starz砍了，于是第二季变成了final season。  
 
