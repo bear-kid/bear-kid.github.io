@@ -3,7 +3,7 @@ layout: post
 title: 跟着大佬去板鸭
 date: 2019-02-18
 categories: blog
-tags: [放假]
+tags: [旅游]
 ---
 
      感觉今天再不把这篇写了，就再也不会去写了，写这篇的目的也很简单，帮助自己记忆=。=
