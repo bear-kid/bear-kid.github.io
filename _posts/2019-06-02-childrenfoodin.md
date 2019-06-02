@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 《奥丁的子女》
+title: 奥丁的子女
 date: 2019-06-02
 categories: blog
 tags: 阅读
