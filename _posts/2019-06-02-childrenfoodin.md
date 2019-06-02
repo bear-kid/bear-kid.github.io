@@ -1,10 +1,9 @@
 ---
-layout：post
-title：奥丁的子女
-date：2019-06-02
-categories：blog
-tags：阅读
-
+layout: post
+title: 《奥丁的子女》
+date: 2019-06-02
+categories: blog
+tags: 阅读
 ---
 《奥丁的子女》这本北欧神话，真的很精简。  
 
