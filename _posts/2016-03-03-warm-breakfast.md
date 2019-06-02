@@ -3,7 +3,7 @@ layout: post
 title: 食堂的早餐
 date: 2016-03-03
 categories: blog
-tags: [早餐]
+tags: [日常]
 descripiton: 第一次到食堂吃早餐，不知道如何形容今天的早餐
 
 ---
