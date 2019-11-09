@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 终结者：暗黑命运
-date：2019-11-09
-categories：blog
-tags：[影视]
-description：格蕾丝x丹妮，真香
+title: 终结者暗黑命运
+date: 2019-11-09
+categories: blog
+tags: [影视]
+description: 格蕾丝x丹妮，真香
 
 ---
 
