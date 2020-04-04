@@ -1,11 +1,10 @@
 ---
-layout:post
-title:关于家庭主战场
-date:2020-03-31
-categories:blog
-tags:[日常]
+layout：post
+title：关于家庭主战场
+date：2020-03-31
+categories：blog
+tags：[日常]
 description：none
-
 ---
 
 最近在家开始跳“舞力全开”，发现一个很有意思的事情，家庭的主战场，我一直以为是厨房，现在发现其实是客厅。
