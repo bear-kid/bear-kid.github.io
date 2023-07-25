@@ -1,8 +1,8 @@
 ---
-title: "电影《芭比》观后感"
-date:: 2023-07-23
+title: "电影 Barbie 观后感"
+date:: 2023-07-25
 categories: [blog]
-tags: [电影]
+tags: [影视]
 description：2023年一部女性主义的电影
 
 ---
