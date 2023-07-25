@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 电影《芭比》观后感
+title: "电影《芭比》观后感"
 date:: 2023-07-23
 categories: [blog]
 tags: [电影]
