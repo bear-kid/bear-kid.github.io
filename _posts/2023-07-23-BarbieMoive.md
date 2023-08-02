@@ -1,5 +1,5 @@
 ---
-title:"电影 Barbie 观后感"
+title: "电影 Barbie 观后感"
 date: 2023-07-25
 categories: [blog]
 tags: [影视]
